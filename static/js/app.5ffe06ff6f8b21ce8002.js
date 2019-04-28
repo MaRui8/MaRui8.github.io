@@ -4768,39 +4768,6 @@ webpackJsonp([1], {
                 }
             }]
         }, {
-            path: "/user/helper",
-            redirect: "/user/helper/main",
-            component: M,
-            meta: {
-                type: "user",
-                icon: "el-icon-printer",
-                title: "使用帮助",
-                mini: !0
-            },
-            children: [{
-                path: "main",
-                component: Nt,
-                meta: {
-                    title: "使用帮助"
-                }
-            }]
-        }, {
-            path: "/user/readme",
-            redirect: "/user/readme/main",
-            component: M,
-            meta: {
-                type: "user",
-                icon: "el-icon-document",
-                title: "README.md"
-            },
-            children: [{
-                path: "main",
-                component: Ut,
-                meta: {
-                    title: "README.md"
-                }
-            }]
-        }, {
             path: "/user/configure",
             redirect: "/user/configure/main",
             component: M,
